@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 - 🎓 Computer Science student at ZHAW in Zurich (focused on Object-Oriented Programming & IT-Security)  
-- 🛠️ Passionate about automation, self-hosting, smart home & tech in general
-- 🌍 Love experimenting with my homelab and trying out new tools (daily hobby
-- 🌱 Believer in continuous growth & curiosity  
+- 🛠️ Passionate about automation, software, self-hosting, smart home & tech in general
+- 🌍 Love experimenting with my homelab and trying out new tools (on a daily basis)
+- 🌱 Believer in continuous growth & curiosity
 - 📚 Always learning – from Electrical Engineering to IT Networks to Self-Hosting and Docker  
 
 ## 🧑‍💻 My Skills
@@ -63,7 +63,7 @@
 - [Unfolded Circle Remote](https://www.unfoldedcircle.com/)
 
 ## ⚙️ System Setup
-- **OS:** Linux (GNOME) | Windows  
+- **OS:** Linux | Windows
 - **Dotfiles Management:** [chezmoi](https://www.chezmoi.io/) (work in progress)  
 - **Package Management:** apt, flatpak  
 
