@@ -5,25 +5,25 @@
 # 👋 Hey, I'm daes10
 
 ## 🙋‍♂️ About Me
-- 🎓 Computer Science student at ZHAW in Zurich (focused on Object-Oriented Programming & IT-Security)  
+- 🎓 Computer Science student at ZHAW in Zurich (focused on Object-Oriented Programming & IT-Security)
 - 🛠️ Passionate about automation, software, self-hosting, smart home & tech in general
 - 🌍 Love experimenting with my homelab and trying out new tools (on a daily basis)
 - 🌱 Believer in continuous growth & curiosity
-- 📚 Always learning – from Electrical Engineering to IT Networks to Self-Hosting and Docker  
+- 📚 I'm a daily learner – from Electrical Engineering to IT Networks to Self-Hosting and Docker
 
 ## 🧑‍💻 My Skills
 - Python | C | Java | JavaScript (School Knowledge)
 - Virtual Machines / Linux Containers
 - Windows Server Administration
-- Networking
+- Networking Knowledge
 - [Docker](https://www.docker.com/)
 - BMSaaS Software (Building Management Station)
 
 ## 🔭 Currently Working / Learning On
 - Object-Oriented Programming in Java
 - [vim](https://www.vim.org/) / [nvim](https://neovim.io/)
-- [Ansible](https://www.ansible.com/)  
-- Docker CLI  
+- [Ansible](https://www.ansible.com/)
+- Docker CLI
 - Dotfile Management in Linux ([chezmoi](https://www.chezmoi.io/))  
 - Linux Containers & Docker Hardening
 - [traefik](https://traefik.io/traefik)
