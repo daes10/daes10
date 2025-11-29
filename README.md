@@ -21,6 +21,8 @@
 
 ## 🔭 Currently Working / Learning On
 - Object-Oriented Programming in Java
+- [Springboot](https://spring.io/projects/spring-boot)
+- [openBIS](https://openbis.ch/) with PostgreSQL (for [school-project](https://github.com/SupplierRatingSoftware/projectManagement))
 - [vim](https://www.vim.org/) / [nvim](https://neovim.io/)
 - [Ansible](https://www.ansible.com/)
 - Docker CLI
@@ -29,6 +31,7 @@
 - [traefik](https://traefik.io/traefik)
 
 ## 🖥️ My Daily Drivers
+- [Omarchy](https://omarchy.org)
 - [Obsidian](https://obsidian.md/)  
 - [Proton Mail](https://proton.me/mail)  
 - [Bitwarden](https://bitwarden.com/)  
@@ -63,9 +66,9 @@
 - [Unfolded Circle Remote](https://www.unfoldedcircle.com/)
 
 ## ⚙️ System Setup
-- **OS:** Linux | Windows
+- **OS:** Linux Arch | Windows
 - **Dotfiles Management:** [chezmoi](https://www.chezmoi.io/) (work in progress)  
-- **Package Management:** apt, flatpak  
+- **Package Management:** apt, flatpak, pacman
 
 
 <!--
