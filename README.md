@@ -21,13 +21,13 @@
 
 ## 🔭 Currently Working / Learning On
 - Object-Oriented Programming in Java
+- 2 Node Proxmox Cluster (2x Fujitsu RX1330 M4 Servers)
 - [Springboot](https://spring.io/projects/spring-boot)
 - [openBIS](https://openbis.ch/) with PostgreSQL (for [school-project](https://github.com/SupplierRatingSoftware/projectManagement))
 - [vim](https://www.vim.org/) / [nvim](https://neovim.io/)
 - [Ansible](https://www.ansible.com/)
-- Docker CLI
-- Dotfile Management in Linux ([chezmoi](https://www.chezmoi.io/))  
-- Linux Containers & Docker Hardening
+- Dotfile Repos
+- Docker Hardening
 - [traefik](https://traefik.io/traefik)
 
 ## 🖥️ My Daily Drivers
