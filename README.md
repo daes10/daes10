@@ -5,44 +5,43 @@
 # 👋 Hey, I'm daes10
 
 ## 🙋‍♂️ About Me
-- 🎓 Computer Science student at ZHAW in Zurich (focused on Object-Oriented Programming & IT-Security)
+- 🎓 Computer Science student at ZHAW in Zurich (currently focused on Object-Oriented Programming & IT-Security)
 - 🛠️ Passionate about automation, software, self-hosting, smart home & tech in general
-- 🌍 Love experimenting with my homelab and trying out new tools (on a daily basis)
+- 🌍 Love experimenting with my homelab and trying out new tools on a daily basis ;)
 - 🌱 Believer in continuous growth & curiosity
 - 📚 I'm a daily learner – from Electrical Engineering to IT Networks to Self-Hosting and Docker
+- ❤️ A vim lover
 
 ## 🧑‍💻 My Skills
 - Python | C | Java | JavaScript (School Knowledge)
-- Virtual Machines / Linux Containers
+- Virtual Machines / Linux Containers / Proxmox
 - Windows Server Administration
 - Networking Knowledge
 - [Docker](https://www.docker.com/)
 - BMSaaS Software (Building Management Station)
 
 ## 🔭 Currently Working / Learning On
-- Object-Oriented Programming in Java
-- 2 Node Proxmox Cluster (2x Fujitsu RX1330 M4 Servers)
-- [Springboot](https://spring.io/projects/spring-boot)
+- 3-Node Proxmox Cluster (3x Fujitsu RX1330 M4 Servers)
 - [openBIS](https://openbis.ch/) with PostgreSQL (for [school-project](https://github.com/SupplierRatingSoftware/projectManagement))
-- [vim](https://www.vim.org/) / [nvim](https://neovim.io/)
 - [Ansible](https://www.ansible.com/)
-- Dotfile Repos
 - Docker Hardening
 - [traefik](https://traefik.io/traefik)
+- [Kubernetes (K3S)](https://k3s.io/)
 
 ## 🖥️ My Daily Drivers
 - [Omarchy](https://omarchy.org)
 - [Obsidian](https://obsidian.md/)  
 - [Proton Mail](https://proton.me/mail)  
 - [Bitwarden](https://bitwarden.com/)  
-- [Syncthing](https://syncthing.net/)  
+- [Syncthing](https://syncthing.net/)
+- [Immich](https://immich.app/)
 
 ## 🏠 Homelab | IaC
-- **Hypervisor:** [Proxmox](https://www.proxmox.com/)  
-- **Reverse Proxy:** [Nginx Proxy Manager](https://nginxproxymanager.com/)
-- **Automation:** [Ansible](https://www.redhat.com/en/ansible-collaborative) (work in progress) | [Node-RED](https://nodered.org/)
+- **Hypervisor:** [Proxmox](https://www.proxmox.com/)
+- **Reverse Proxy:** [Traefik](https://traefik.io/traefik)
+- **Automation:** [Ansible](https://www.redhat.com/en/ansible-collaborative) | [Node-RED](https://nodered.org/)
 - **CI/CD:** coming soon… ([Selfhost GitLab CI/CD](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/))  
-- **Monitoring:** [Grafana](https://grafana.com/) | [PiAlert](https://github.com/pucherot/Pi.Alert)
+- **Monitoring:** [Grafana](https://grafana.com/) | [Pulse](https://pulserelay.pro/)
 - **Logging:** [tautulli](https://tautulli.com/)
 - **Smart Home:** [Loxone](https://www.loxone.com/) + [Home Assistant](https://www.home-assistant.io/)
 - **DMS (Document Management System):** [Paperless-ngx](https://docs.paperless-ngx.com/)
@@ -58,12 +57,15 @@
 - [Eclipse Mosquitto](https://mosquitto.org/)  
 - [Zigbee2MQTT](https://www.zigbee2mqtt.io/)
 - [Paperless-ngx](https://docs.paperless-ngx.com/)
+- [IT-Tools](https://it-tools.tech/)
+- [Yopass](https://yopass.se/)
 
 **Used Hardware / Software:**
 - [WLED](https://kno.wled.ge/)  
 - [Valetudo](https://valetudo.cloud/)  
 - DIY Weather Station ([stall.biz](https://www.stall.biz/))  
 - [Unfolded Circle Remote](https://www.unfoldedcircle.com/)
+- [TrueNAS](https://www.truenas.com/truenas-community-edition/)
 
 ## ⚙️ System Setup
 - **OS:** Linux Arch | Windows
